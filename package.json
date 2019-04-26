@@ -1,7 +1,6 @@
 {
   "name": "vue-press",
   "version": "1.0.0",
-  "description": "",
   "main": "config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,5 +10,17 @@
   },
   "author": "冷泠泠",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {},
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhouyihan/vue-press.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhouyihan/vue-press/issues"
+  },
+  "homepage": "https://github.com/zhouyihan/vue-press#readme",
+  "description": ""
 }
