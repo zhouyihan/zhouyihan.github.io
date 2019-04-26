@@ -10,5 +10,6 @@
     "deploy": "bash deploy.sh"
   },
   "author": "冷泠泠",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {}
 }
