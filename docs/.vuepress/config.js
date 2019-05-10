@@ -4,7 +4,7 @@ module.exports = {
     themeConfig: {
       nav: [
         { text: 'Vue', link: '/vue/' },
-        { text: 'React', link: '/react/' },
+        // { text: 'React', link: '/react/' },
         { text: 'JS', link: '/js/' },
         { text: 'CSS', link: '/css/' },
         { text: '其他', link: '/other/' },
@@ -15,20 +15,20 @@ module.exports = {
           '',
           'about'
         ],
-        '/react/': [
-          '',
-          'react'
-        ],
+        // '/react/': [
+        //   '',
+        //   'react'
+        // ],
         '/js/': [
           ''
         ],
         '/css/': [
           ''
         ],
-        '/other/': [
-          '',
-          'prettier'
-        ]
+        // '/other/': [
+        //   '',
+        //   'prettier'
+        // ]
       }
     },
     markdown: {
